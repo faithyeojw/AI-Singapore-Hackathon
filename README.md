@@ -4,8 +4,8 @@ Using PeekingDuck from AISingapore's Bricks.
 
 Input: Webcam (if you are doing it on the computer); Model: "hr net" and "mtcnn"; Output: CLI or Terminal.
 
-In this hackathon, I have created a file in the Windows C Drive, called "safebikeAI".
-With the libraries, "gTTs" and "playsound" installed, it is cross-platform (available for both Wwindows and Macs).
+In this hackathon, I am a using a Windows computer and has created a file in the Windows C Drive, called "safebikeAI".
+With the libraries, "gTTs" and "playsound" installed. The libraries are also cross-platform (available for both Windows and Macs).
 
 At the start in the folder "safebikeAI", I have created another sub-folder "custom_node".
 Inside the custom_node folder, there is one other sub-folder "src" and also, it contains the "run_config.yml" file.

@@ -1,0 +1,8 @@
+nodes:
+- input.live
+- model.mtcnn
+- draw.bbox
+- model.hrnet
+- draw.poses
+- output.screen
+- head_orientation.output.head_orientation

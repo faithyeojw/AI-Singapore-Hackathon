@@ -17,7 +17,7 @@ In the "output" sub-folder, it will contain the "head_orientation.py" file.
 With all the files being in the right place, open the Command Line Interface (CLI) for Windows or Terminal for MacOs.
 
 For Windows; In the CLI, use cd back to "C:\safebikeAI\custom_node" and then run the command "peekingduck run --config_path run_config.yml".
-After the command has finished running, the application of the webcam of your computer will open and it will start to display a yellow box around your face, along with the red key points detections on your nose, left eye and right eye.
+After the command has finished running, the application of the webcam of your computer will open and it will start to display a yellow box (bounding box) around your face, along with the red dots(key points) as for the detections on your nose, left eye and right eye.
 
 If there is a detection, you will hear the audio output of "Watch the road!", as well as with the display of the confidence level of the keypoints. If there isn't, the confidence level will show a low value and also a display of "Frames being processed: 100".
 

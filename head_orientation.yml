@@ -1,0 +1,3 @@
+# Mandatory configs
+input: ["keypoint_scores"]             # replace values
+output: ["directions"]  # replace values
